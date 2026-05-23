@@ -1,43 +1,87 @@
-# FocusFlow
+FOCUSFLOW - SMART PRODUCTIVITY ASSISTANT
+=========================================
 
-A productivity app to manage tasks, track focus time, and get things done.
-
-## Demo Video
-
-Watch the demo here:  
+DEMO: 
 https://drive.google.com/file/d/1hVKVQErA_n2Km9vNqX-Ep4cm-zbqycRx/view?usp=sharing
 
-## Login
+================================================================================
 
-Email: alex@example.com  
-Password: password123
+WHAT IS IT?
 
-Or click "Sign up" to create a new account.
+FocusFlow automatically tells you what to work on first by sorting tasks by urgency and difficulty.
 
-## Features
+================================================================================
 
-- Dashboard with stats and daily schedule
-- Create, edit, and complete tasks
-- Set priorities (High, Medium, Low)
-- Organize by categories (Study, Work, Personal, Health)
-- Add subtasks to any task
-- Weekly calendar view
-- Pomodoro timer with focus/break sessions
-- AI assistant for task recommendations
-- Analytics charts for productivity tracking
-- Dark/Light theme support
+PROBLEM
 
-## Data Saved
+Students waste 45 minutes daily deciding what to do next. A 90-minute exam due tomorrow looks same as 30-minute reading due next week.
 
-Your tasks, timer sessions, and settings are saved automatically in your browser.
+================================================================================
 
-## How to Use
+SOLUTION
 
-1. Download all 3 files into one folder
+Priority Score = Deadline + Difficulty
+
+🔴 CRITICAL (80-100%) - Do NOW
+🟠 URGENT (60-79%) - Do TODAY
+🟡 NORMAL (40-59%) - Do THIS WEEK
+🟢 LOW (0-39%) - Can WAIT
+
+================================================================================
+
+KEY FEATURES
+
+• Smart task sorting by priority
+• Secure login with strong password
+• 25-min focus timer with progress circle
+• AI assistant that knows your tasks
+• Analytics with charts & achievements
+• Delete confirmation (asks "Are you sure?")
+• Dark/Light theme
+• Edit profile
+
+================================================================================
+
+TECH STACK
+
+HTML5 + CSS3 + Vanilla JavaScript + LocalStorage
+No frameworks - pure code
+
+================================================================================
+
+SETUP
+
+1. Save 3 files: index.html, style.css, script.js
 2. Open index.html in any browser
-3. Login or create an account
-4. Start adding tasks
-5. Use the timer to stay focused
-6. Check Analytics to see your progress
+3. No server needed - works offline
 
-## File Structure
+================================================================================
+
+QUICK USE
+
+1. Sign up (name, email, password 8+ chars)
+2. Add task (name, time, difficulty, deadline)
+3. Tasks auto-sort by priority
+4. Click checkbox to complete
+5. Hover + trash icon to delete (confirms first)
+6. Use timer for focus sessions
+7. Ask AI "What should I do first?"
+8. Check analytics for progress
+
+================================================================================
+
+FUTURE PLANS
+
+• Backend + database (sync across devices)
+• Mobile app
+• Email reminders
+• Calendar integration
+
+================================================================================
+
+CONTACT
+
+Developer: Bisrat Shimelis
+GitHub: github.com/dgbisrat/FocusFlow
+
+================================================================================
