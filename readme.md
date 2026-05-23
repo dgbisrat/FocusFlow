@@ -2,6 +2,10 @@
 
 A productivity app to manage tasks, track focus time, and get things done.
 
+## Demo Video
+
+[🎥 Watch Demo on Google Drive](https://drive.google.com/file/d/1hVKVQErA_n2Km9vNqX-Ep4cm-zbqycRx/view?usp=sharing)
+
 ## Login
 
 Email: alex@example.com
@@ -24,9 +28,7 @@ Or click "Sign up" to create a new account.
 
 ## Data Saved
 
-Your tasks, timer sessions, and settings are saved automatically in your browser. Close the tab and come back later - everything stays.
-
-No account needed after signup. No internet required after loading.
+Your tasks, timer sessions, and settings are saved automatically in your browser.
 
 ## How to Use
 
@@ -51,8 +53,4 @@ Works on Chrome, Firefox, Safari, Edge
 
 ## Clear Data
 
-To reset everything, clear your browser's local storage or use:
-
-localStorage.clear()
-
-Then refresh the page.
+To reset everything, clear your browser's local storage
