@@ -1,0 +1,58 @@
+# FocusFlow
+
+A productivity app to manage tasks, track focus time, and get things done.
+
+## Login
+
+Email: alex@example.com
+Password: password123
+
+Or click "Sign up" to create a new account.
+
+## Features
+
+- Dashboard with stats and daily schedule
+- Create, edit, and complete tasks
+- Set priorities (High, Medium, Low)
+- Organize by categories (Study, Work, Personal, Health)
+- Add subtasks to any task
+- Weekly calendar view
+- Pomodoro timer with focus/break sessions
+- AI assistant for task recommendations
+- Analytics charts for productivity tracking
+- Dark/Light theme support
+
+## Data Saved
+
+Your tasks, timer sessions, and settings are saved automatically in your browser. Close the tab and come back later - everything stays.
+
+No account needed after signup. No internet required after loading.
+
+## How to Use
+
+1. Download all 3 files into one folder
+2. Open index.html in any browser
+3. Login or create an account
+4. Start adding tasks from the Tasks page
+5. Use the timer to stay focused
+6. Check Analytics to see your progress
+
+## File Structure
+
+FocusFlow/
+├── index.html    (main app)
+├── style.css     (all styles)
+├── script.js     (all functionality)
+└── README.md     (this file)
+
+## Browser Support
+
+Works on Chrome, Firefox, Safari, Edge
+
+## Clear Data
+
+To reset everything, clear your browser's local storage or use:
+
+localStorage.clear()
+
+Then refresh the page.
