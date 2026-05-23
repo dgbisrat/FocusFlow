@@ -1,4 +1,4 @@
-FOCUSFLOW - SMART PRODUCTIVITY ASSISTANT
+FOCUSFLOW - SMART PRODUCTIVITY ASSISTANT  
 =========================================
 
 DEMO: 
@@ -12,7 +12,7 @@ FocusFlow automatically tells you what to work on first by sorting tasks by urge
 
 ================================================================================
 
-PROBLEM
+PROBLEMS
 
 Students waste 45 minutes daily deciding what to do next. A 90-minute exam due tomorrow looks same as 30-minute reading due next week.
 
