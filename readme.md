@@ -4,11 +4,12 @@ A productivity app to manage tasks, track focus time, and get things done.
 
 ## Demo Video
 
-[🎥 Watch Demo on Google Drive](https://drive.google.com/file/d/1hVKVQErA_n2Km9vNqX-Ep4cm-zbqycRx/view?usp=sharing)
+Watch the demo here:  
+https://drive.google.com/file/d/1hVKVQErA_n2Km9vNqX-Ep4cm-zbqycRx/view?usp=sharing
 
 ## Login
 
-Email: alex@example.com
+Email: alex@example.com  
 Password: password123
 
 Or click "Sign up" to create a new account.
@@ -35,22 +36,8 @@ Your tasks, timer sessions, and settings are saved automatically in your browser
 1. Download all 3 files into one folder
 2. Open index.html in any browser
 3. Login or create an account
-4. Start adding tasks from the Tasks page
+4. Start adding tasks
 5. Use the timer to stay focused
 6. Check Analytics to see your progress
 
 ## File Structure
-
-FocusFlow/
-├── index.html    (main app)
-├── style.css     (all styles)
-├── script.js     (all functionality)
-└── README.md     (this file)
-
-## Browser Support
-
-Works on Chrome, Firefox, Safari, Edge
-
-## Clear Data
-
-To reset everything, clear your browser's local storage
